@@ -1,1 +1,1 @@
-# Proyecto covid
+# Proyecto COVID
